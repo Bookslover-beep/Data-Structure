@@ -18,6 +18,7 @@ head = newNode;
 cout << "Node inserted at beginning.\n";
 }
 
+
 void insertAtTheEnd(){
 int value;
 cout <<" Enter the value: ";
